@@ -23,6 +23,7 @@
     "@types/chroma-js": "^1.4.0",
     "chroma-js": "^1.4.0",
     "core-js": "^2.5.4",
+    "latest-version": "^4.0.0",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.26"
   },
