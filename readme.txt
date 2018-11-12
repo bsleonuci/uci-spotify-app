@@ -1,4 +1,4 @@
---Readme document for *author(s)*, *email(s)*, *UCI id(s)*--
+--Readme document for Brandon Leon, bsleon@uci.edu, 76919463--
 
 1. How long, in hours, did it take you to complete this assignment?
 It took me roughly 14 hours to complete this assignment. 
